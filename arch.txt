@@ -1,2 +1,1 @@
-/home/action/.parts/bin:/home/action/.parts/sbin:/home/action/.parts/autoparts/bin:/home/action/.parts/autoparts/bin:/home/action/.parts/autoparts/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/home/action/.gem/ruby/1.9.1/bin solo quiero ver si se guarda bien
-
+SE GENERA BIEN
